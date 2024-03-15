@@ -1,0 +1,41 @@
+20240315	17:12:19	1cdaa6b1-c218-44a2-8791-5e983b62ce6a	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:12:33	4802c8af-8cd7-40d5-92e5-b475d6635d1c	SyntaxError, Unexpected token f in JSON at position 1
+20240315	17:12:33	25bd9312-5fbc-4286-9cd9-70d92cd2b1a4	SyntaxError, Unexpected token f in JSON at position 1
+20240315	17:12:33	43fb0de9-1ec9-4048-bdd3-c2e358bb9efa	SyntaxError, Unexpected token f in JSON at position 1
+20240315	17:12:56	24c49039-4795-4392-b51b-e69622cafd9c	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:12:56	f506d336-a72f-4225-a147-8e5fea30e0e9	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:12:56	37ea73aa-8f1b-42a5-bedc-7df34febde64	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:12:57	2030dcb0-e984-427a-819b-4f029662822e	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:12:57	69761f86-c559-4a4e-8172-c8e3d530c429	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:12:57	71bd8389-7903-4eb0-bd82-ed91b6f9b0c4	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:12:57	59265164-905f-47d1-b1ef-56d8a18ef065	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:12:58	fa83c8f2-2cbc-4153-82a8-c885c226b640	SyntaxError, Unexpected token J in JSON at position 13
+20240315	17:14:05	bfe7abb9-4e73-45b0-927e-6f546667365a	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:06	57473596-b1ec-4206-9864-2eb2a54c6053	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:07	e8ec6c9c-3286-4d60-b007-4483ae27041c	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:07	2cd021af-5389-4f0a-8a67-0d66c9160f2a	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:07	c65b5ec1-4ab8-4834-a4de-3f4fe0f0427c	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:08	d2afccc7-8eb0-44be-9902-a3c67fb913f5	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:08	542849b9-5bb5-440d-a3e2-0ccd2764bf4d	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:12	222733ee-ee3f-4518-a64c-3a09028d149e	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:14	0820ca72-c43b-4f6b-a521-d7634a7f64d1	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:22	c9f48481-5591-49ba-bf8c-e227c18c9ebe	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:22	dd3fb813-b6e5-41ec-8e8f-bdc2360e8ac2	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:14:23	2d28aace-d40e-4225-ad5d-35c1a9364b9f	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:15:57	89212b55-b47c-4333-be85-919eb0bc79c3	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:15:58	b0e884f3-2638-4b83-9aef-c5fa24cd2ef0	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:15:59	212e45f0-ed73-4ba4-a935-0cfef47e83fe	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:16:00	ec678be8-eac8-4a97-9777-3594e3db5bad	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:16:00	e20183c6-56a9-4602-b626-12054035423b	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:16:00	84f69602-8841-4a98-af0c-112c6772a08f	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:16:00	1e2d6340-5375-4d9b-b7a3-d4a6856ca650	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:16:32	cbb4a7b8-dd44-46df-bec7-be2a9d202640	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:16:54	c4ae464c-64cb-4aca-98eb-3a572bdc15d0	TypeError, Cannot read properties of undefined (reading 'id')
+20240315	17:16:57	bd871034-da72-4ec6-a1ce-dc992d4d15da	SyntaxError, Unexpected end of JSON input
+20240315	17:17:48	ab5633d5-e53f-47f4-a9cc-9f86bbad8f56	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	17:18:11	d4b8bc2a-632c-450f-a676-924f4b803326	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	19:13:51	4179d0b7-2b11-42cf-9398-ec956719b8a4	Error, ENOENT: no such file or directory, stat 'C:\Users\Anujeet Kunturkar\OneDrive\Desktop\NodeJs_Dave\MVC_REST_API\views\new-page.html'
+20240315	19:19:34	484941c9-0b3b-4d2e-9211-019242f16572	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	19:23:59	6d942348-8994-4986-a38e-b4dfd3e0bcb5	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	19:24:00	82cc0cdd-6b77-4248-946d-3673d0f09113	TypeError, Cannot read properties of undefined (reading 'firstname')
+20240315	19:25:40	c335d8e4-337d-4e6a-815b-3aaff7cb15af	TypeError, req.json is not a function
